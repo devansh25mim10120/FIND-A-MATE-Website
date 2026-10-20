@@ -4,10 +4,6 @@ FIND A MATE is a real-time web platform designed to help students instantly find
 
 The platform supports anonymous participation and provides moderation features such as join approval, mute controls, participant management, and anti-spam protection. Users can communicate through real-time messaging, share media, and optionally use AI assistance to improve their learning experience.
 
-🌐 Live Demo
-https://mate-finder--singhalsahab991.replit.app/
-
-
 
 📌 Project Overview
 Finding the right study partner and organizing collaborative study sessions can be challenging for students. Existing communication platforms are often designed for general-purpose communication rather than focused academic collaboration.
